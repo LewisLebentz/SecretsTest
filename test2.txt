@@ -1,22 +1,2 @@
-"ZWVTjPQSdhwRgl204Hc51YCsritMIzn9B=/p9UyeX7xu6KkAGqfm3FJ+oObLDNEva"
-
-"ZWVTjPQSdhwRgl204Hc51YCsritMIzn9B=/p9UyeX7xu6KkAGqfm5FJ+oObLDNEva"
-
-back at it again
-
-getting closer
-
-a
-
-b
-
-c
-
-d
-
-e
-
-f
-
-fake key
-"ZWVTjPQSdhwRgl204Hc51YCsritNIzn4B=/p9UyeX7xu6KkAGqfm5FJ+oObLDNEva"
+-----BEGIN OPENSSH PRIVATE KEY-----
+hgfaekfhakefhawkfhkjewlfhklawewgaewgewg
